@@ -1,0 +1,11 @@
+API key
+UzvIlVhhDeQC3aqTYKEbakmey
+
+API Key Secret
+vo37kFpweSg7A7qnlBngBzvesr6TjUWdLaOpDczcXsLgy0Sbqi
+
+Access Token
+1445216835729645571-addOSoHeodBYWSSVXhfkeXCJwetPC1
+
+Access Token Secret
+4SYWyzhAltn1tt0vGSZwjpcnP3sZsilQBnZ1UCKGSTMye
